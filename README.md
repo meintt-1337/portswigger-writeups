@@ -7,7 +7,7 @@ Personal writeups và notes khi làm các lab trên [PortSwigger Web Security Ac
 ### Business Logic
 | Lab | Difficulty | Status |
 |---|---|---|
-| [Infinite money logic flaw](.\business-logic\Infinite-money-logic-flaw\README.md) | PRACTITIONER | ✅ |
+| [Infinite money logic flaw](.\business-logic/Infinite-money-logic-flaw/README.md) | PRACTITIONER | ✅ |
 
 ---
 
