@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Burp Suite project files (có thể chứa session/cookie nhạy cảm)
+*.burp
+*.burpproject
+
+# Temp / draft files
+*.tmp
+draft-*.md
+notes-private.md
+
+# Logs
+*.log
