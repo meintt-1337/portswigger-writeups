@@ -1,9 +1,13 @@
 # [Tên Lab]
 
 **Category:** SQL Injection
+
 **Difficulty:** Apprentice / Practitioner
+
 **Link:** [PortSwigger Lab](https://portswigger.net/...)
+
 **Status:** ✅ Solved
+
 **Date:** YYYY-MM-DD
 
 ---
