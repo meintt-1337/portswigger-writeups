@@ -8,7 +8,7 @@ Personal writeups và notes khi làm các lab trên [PortSwigger Web Security Ac
 | Lab | Difficulty | Status |
 |---|---|---|
 | [Infinite money logic flaw](./business-logic/Infinite-money-logic-flaw/README.md) | PRACTITIONER | ✅ |
-| [Clicckjacking Labs](./clickjacking/README.md) | APPRENTICE + PRACTITIONER | ✅ |
+| [Clickjacking Labs](./clickjacking/README.md) | APPRENTICE + PRACTITIONER | ✅ |
 | [CORS](./CORS/README.md) | APPRENTICE + PRACTITIONER |  |
 | [Information Disclosure](./Information-disclosure/README.md) | APPRENTICE + PRACTITIONER |  |
 ---
